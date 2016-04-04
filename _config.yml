@@ -1,6 +1,6 @@
 name: Australia 2016
 favicon: null
-layout_spectrum: 0.1499188137240708
+layout_spectrum: 0.39194
 typography_spectrum: 0.2734819552861154
 title: Australia 2016
 cta:
@@ -22,8 +22,8 @@ color:
     - '#7289b3'
     - '#202328'
     - '#475e90'
-  brandStrength: 0.6696064611896873
-  lightness: 0.9892092058435082
-  saturation: 0.4021142516285181
-  rhythmicContrast: 0.1281084732618183
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
