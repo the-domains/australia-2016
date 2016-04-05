@@ -1,5 +1,8 @@
+name: Australia 2016
+favicon: null
+layout_spectrum: 0.84348
+typography_spectrum: 0.22325
 title: Australia 2016
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8125
-  brandStrength: 0.5
-  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#c2b193'
     - '#7289b3'
     - '#202328'
     - '#475e90'
+  brandStrength: 0.5
   lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Australia 2016
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1401718
-layout_spectrum: 0.84348
+  saturation: 0.8125
+  rhythmicContrast: 0.25
+purpose: []
