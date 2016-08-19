@@ -1,8 +1,30 @@
-name: Australia 2016
-favicon: null
-layout_spectrum: 0.84348
 typography_spectrum: 0.65672
-title: Australia 2016
+color:
+  brandColors:
+    - '#ffffff'
+    - '#c2b193'
+    - '#7289b3'
+    - '#202328'
+    - '#475e90'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.8125
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.84348
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Australia 2016
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#c2b193'
-    - '#7289b3'
-    - '#202328'
-    - '#475e90'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.8125
-  rhythmicContrast: 0.25
+title: Australia 2016
+description: A Family Vacation
 purpose: []
